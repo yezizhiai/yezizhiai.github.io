@@ -9,7 +9,7 @@
 title                    : "Yi Ren (任意)"
 description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
 repository               : "yezizhiai/yezizhiai.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : 
