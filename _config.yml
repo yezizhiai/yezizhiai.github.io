@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
+title                    : "YuQuan Yue (乐雨泉)"
 description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
 repository               : "yezizhiai/yezizhiai.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Yi Ren (乐雨泉)"
   avatar           : "images/ry_profile.jpeg"
   bio              : "TikTok"
   location         : "Singapore"
