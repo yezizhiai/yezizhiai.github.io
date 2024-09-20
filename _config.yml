@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "YuQuan Yue (乐雨泉)"
+title                    : "YuQuan Le (乐雨泉)"
 description              : ""
 repository               : "yezizhiai/yezizhiai.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "YuQuan Yue (乐雨泉)"
+  name             : "YuQuan Le (乐雨泉)"
   avatar           : "images/ry_profile.jpeg"
   bio              : "TikTok"
   location         : "Changsha, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yezizhiai"
+  github           : "yuquanle"
   google_plus      :
   keybase          :
   instagram        :
