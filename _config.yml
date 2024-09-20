@@ -12,7 +12,7 @@ repository               : "yezizhiai/yezizhiai.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : GEVwy4sAAAAJ
+google_analytics_id      : 
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -27,7 +27,7 @@ author:
   location         : "Changsha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=GEVwy4sAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=GEVwy4sAAAAJ"
   email            : "leyuquan@hnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
