@@ -1,6 +1,6 @@
 name: Update github myprofile
 
-on: 'page_build'
+on: #'page_build'
 jobs:
   build:
     runs-on: ubuntu-latest
