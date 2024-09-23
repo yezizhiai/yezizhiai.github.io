@@ -22,3 +22,9 @@
 - *2020*, 中国法研杯CAIL 2020-司法摘要赛道 三等奖
 - *2019*, 中国法研杯CAIL 2019-相似案例匹配赛道 三等奖
 - *2015*, 第七届全国大学生高等数学竞赛（非数学类）一等奖
+
+# 📚 Academic Services
+Conference/ Journal Reviewers
+- IEEE/ACM Transactions on Audio, Speech, and Language Processing
+- Neurocomputing
+- CAAI Transactions on Artificial Intelligence
