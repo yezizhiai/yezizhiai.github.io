@@ -12,6 +12,14 @@
 - *2019.07 - 2021.09*, [JD AI Lab](https://www.jd.com/), Beijing, China.
 - *2018.07 - 2018.09*, [CVTE AI Lab](https://research.cvte.com/?locale=en-US), Guangzhou, China.
 
+# 🤝 Collaborators
+It’s my pleasure and great honor to work with these talented scholars.
+- [Tong Xiao](https://tongxiao-cs.github.io/), Postdoc Fellow at THU.
+- [Jiawei Wang](https://scholar.google.com.hk/citations?user=ijtp4KIAAAAJ&hl=zh-CN), a joint Ph.D. candidate at HNU and NUS (NEXT++).
+- [Yuming Zhao](https://scholar.google.com/citations?user=_wnpdNcAAAAJ&hl=zh-CN), JD AI Lab.
+- [Shaozu Yuan](https://scholar.google.com.hk/citations?user=k_5RuqgAAAAJ&hl=zh-CN), JD AI Lab.
+- [Meihuizi Jia](https://jmhz24.github.io), a joint Ph.D. candidate at BIT and NTU.
+
 # 🏆 Competitions
 - *2023*, 中国法律智能技术评测CAIL 2023-类案检索赛道 二等奖
 - *2022*, 中国法律智能技术评测CAIL 2022-涉法舆情摘要赛道 三等奖
